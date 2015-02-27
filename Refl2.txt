@@ -1,0 +1,6 @@
+What happens when you initialize a repository?  Why do you need to do it?
+
+Creates the head file and allows you to add commits
+
+another
+
